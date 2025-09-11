@@ -37,7 +37,7 @@
 ### 🧠 Stack que me define
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,dart,androidstudio,nodejs,express,mysql,postgres,mongodb,docker,git,github,bitbucket,jenkins,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,sqlite,vite,linux,bootstrap,webpack,heroku,react,yarn,java,flutter,dart,androidstudio,nodejs,express,mysql,postgres,mongodb,docker,git,github,bitbucket,jenkins,vscode" />
 </p>
 
 ---
