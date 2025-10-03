@@ -67,13 +67,6 @@ Scrum • Kanban
 
 ---
 
-### 🎯 Curiosidade de bastidor
-
-🕵️‍♂️ Já fiz uma API rodar entre Delphi 7 e MongoDB às 18h de uma sexta-feira.  
-**Não recomendo. Mas sobrevivi.** 🙃
-
----
-
 ### 🤝 Vamos nos conectar?
 
 <p align="center">
